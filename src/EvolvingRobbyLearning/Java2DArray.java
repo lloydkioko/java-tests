@@ -1,9 +1,8 @@
+package EvolvingRobbyLearning;
+
 import java.util.Scanner;
 
-
-
-public class Solution
-{
+public class Java2DArray {
     public static void main(String[] args)
     {
         int a[][] = new int[6][6];

@@ -1,6 +1,8 @@
-import java.util.*;
+package EvolvingRobbyLearning;
 
-public class Solution {
+import java.util.Scanner;
+
+public class Java1DArrayPart2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int t = Integer.parseInt(scanner.nextLine());

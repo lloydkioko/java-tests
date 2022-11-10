@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EvolvingRobby/EvolvingRobby.iml" filepath="$PROJECT_DIR$/EvolvingRobby/EvolvingRobby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-1d-array/java-1d-array.iml" filepath="$PROJECT_DIR$/java-1d-array/java-1d-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-1d-array_part2/java-1d-array_part2.iml" filepath="$PROJECT_DIR$/java-1d-array_part2/java-1d-array_part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-2d-array/java-2d-array.iml" filepath="$PROJECT_DIR$/java-2d-array/java-2d-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-arraylist/java-arraylist.iml" filepath="$PROJECT_DIR$/java-arraylist/java-arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-list/java-list.iml" filepath="$PROJECT_DIR$/java-list/java-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-subarray/java-subarray.iml" filepath="$PROJECT_DIR$/java-subarray/java-subarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-tests.iml" filepath="$PROJECT_DIR$/.idea/java-tests.iml" />
+    </modules>
+  </component>
+</project>

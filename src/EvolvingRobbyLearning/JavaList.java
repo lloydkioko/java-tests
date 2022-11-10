@@ -1,9 +1,10 @@
+package EvolvingRobbyLearning;
+
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Solution {
-
+public class JavaList {
     public static void main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         List<Integer> list = new LinkedList<>();
